@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: 王一鸽
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yi ge
+last_name: Wang
 
 # Status emoji
 status:
@@ -20,12 +17,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher, Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Beijing Foreign Studies University
+    url: https://www.bfsu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,26 +44,26 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Social Science; Social Network Analysis
+  - Quantitative Historical Studies
+  - Tech and Society
+  - Social Movement and Revolution Studies
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Social Science
+    institution: HKUST (Hong Kong University of Science and Technology)
+    date_end: 2020-9
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Printing A Road to Revolution_. Supervised by [Prof James Kung](https://example.com). [Presented papers at  conferences with the contributions being published in journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Sociological Theory and Methodology, Historical and Political Sociology
+    institution: Peking University, China (UG & PG)
+    date_start: 2002-09 
+    date_end: 2010-7
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.8/4.0 () 3.9/4.0 ()
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -143,11 +140,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 
+  - name: Deutsch
+    percent: 
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +180,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ is a professor of  at . Her research interests include . She leads  group, which develops .
